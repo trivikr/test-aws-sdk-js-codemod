@@ -8,9 +8,6 @@ $ npx aws-sdk-js-codemod -t v2-to-v3 src/example.ts
 Processing 1 files... 
 Spawning 1 workers...
 Sending 1 files to free worker...
-Browserslist: caniuse-lite is outdated. Please run:
-  npx browserslist@latest --update-db
-  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
 All done. 
 Results: 
 0 errors
