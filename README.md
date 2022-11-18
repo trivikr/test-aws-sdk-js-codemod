@@ -4,6 +4,12 @@ Test repo for aws-sdk-js-codemod
 ## Usage
 
 ```console
+$ node -v
+v16.18.1
+
+$ npm -v
+8.19.2
+
 $ npx aws-sdk-js-codemod -t v2-to-v3 src/example.ts 
 Processing 1 files... 
 Spawning 1 workers...
